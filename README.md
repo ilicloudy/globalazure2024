@@ -1,4 +1,4 @@
-This code is creating Static Web Site in Azure Storage Account with CDN endpoint and uploads a whole site with images, csv, html using module for storage blob.
+This code is creating Static Web Site in Azure Storage Account with CDN endpoint and uploads a whole site with images, csv, html using module for storage blob. Files should be located in: css (upload/css), images (upload/images), js (upload/js), csv (upload/train) and html (/).
 Version 2.0.0
 
 1. checkov -d .
